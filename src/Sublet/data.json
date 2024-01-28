@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Sublet 1",
+        "description": "Description 1"
+    },
+    {
+        "id": 2,
+        "title": "Sublet 2",
+        "description": "Description 2"
+    },
+    {
+        "id": 3,
+        "title": "Sublet 3",
+        "description": "Description 3"
+    },
+    {
+        "id": 4,
+        "title": "Sublet 4",
+        "description": "Description 4"
+    },
+    {
+        "id": 5,
+        "title": "Sublet 5",
+        "description": "Description 5"
+    }
+]
